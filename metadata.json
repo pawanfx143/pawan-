@@ -1,0 +1,6 @@
+{
+  "name": "Oniros — Multi-Modal Dream Journal",
+  "description": "A nocturnal dream journal with voice transcription, surrealist artwork generation, Jungian psychological interpretation, and multi-turn symbol dialogue.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
